@@ -1,0 +1,6 @@
+- insert:
+    - id: resume-xray
+      name: 'dsh-resume-xray'
+      config:
+        maxRisks: 10
+        includeValidationChain: true
